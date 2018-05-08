@@ -1,0 +1,16 @@
+Leaving directory ‘c:/Users/sun/AppData/Roaming/.emacs.d/elpa/quickrun-20170222.1715’
+
+Compiling file c:/Users/sun/AppData/Roaming/.emacs.d/elpa/quickrun-20170222.1715/quickrun.el at Tue May  8 15:02:49 2018
+Entering directory ‘c:/Users/sun/AppData/Roaming/.emacs.d/elpa/quickrun-20170222.1715/’
+quickrun.el:2:42:Warning: reference to free variable ‘CN’
+quickrun.el:4:17:Warning: reference to free variable ‘O’
+quickrun.el:7:16:Error: End of file during parsing
+
+Compiling no file at Tue May  8 15:07:14 2018
+Leaving directory ‘c:/Users/sun/AppData/Roaming/.emacs.d/elpa/epl-20180205.1249’
+
+Compiling file c:/Users/sun/AppData/Roaming/.emacs.d/elpa/epl-20180205.1249/epl.el at Tue May  8 15:07:14 2018
+Entering directory ‘c:/Users/sun/AppData/Roaming/.emacs.d/elpa/epl-20180205.1249/’
+epl.el:2:42:Warning: reference to free variable ‘CN’
+epl.el:4:17:Warning: reference to free variable ‘O’
+epl.el:7:16:Error: End of file during parsing

@@ -1,0 +1,9 @@
+ls
+cd
+ls
+pwd
+ls
+cd
+ls
+mkdir elisp public_repos conf
+curl https://sh.rustup.rs -sSf | sh
